@@ -2,13 +2,13 @@
 
 ---
 
-# About me
+### About me
 - 17 years old developper
 
-# My activities
+### My activities
 - I'm currently working on : SpaceRaiderZ
 
-# Languages
+### Languages
 - Python
 - Javascript
 - c#
